@@ -1,0 +1,41 @@
+.box-button-img2 {
+width: 16vw;
+height:23vh;
+background-color: blue;
+border-radius: 5%;
+display:flex;
+flex-direction: column;
+align-items: center;
+margin-left: 2vw;
+}
+.box-button-img {
+width: 15vw;
+height:22vh;
+background-color: red;
+border-radius: 5%;
+display:flex;
+flex-direction: column;
+align-items: center;
+margin-left: 2vw;
+}
+
+.box-button-img img{
+width: 15vw;
+height: 18vh;
+}
+.box-button-img2 img{
+width: 16vw;
+height: 19vh;
+}
+
+.box-button-img h1{
+font-size: 4vh;
+}
+.box-button-img2 h1{
+font-size: 0vh;
+}
+.img-atas{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}

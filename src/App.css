@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+.content{
+display:flex;
+}
+.content-kiri{
+height: 90vh;
+width: 30vw;
+border-right: 0.2vw solid black;
+background-color: #888;
+}
+.content-kanan{
+width: 69.7vw;
+background-color: #bbb;
+}

@@ -1,0 +1,27 @@
+.Home-head{
+background-color: #aaa;
+display: flex;
+justify-content: center;
+}
+.Home-head-container{
+width: 40vw;
+height: 10vh;
+display: flex;
+justify-content: space-around;
+border-bottom: 0.4vh solid #555;
+align-items: center;
+}
+.Home-button{
+width: 12vw;
+height: 5vh;
+border-radius: 15%;
+font-size: 1.5vw;
+}
+.Home-button2{
+background-color: red;
+width: 12vw;
+height: 5vh;
+border-radius: 15%;
+font-size: 1.5vw;
+}
+

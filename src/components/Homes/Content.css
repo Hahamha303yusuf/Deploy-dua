@@ -1,0 +1,43 @@
+.box-scroll{
+width: 69.7vw;
+height: 80vh;
+background-color: #ff8d21;
+overflow: scroll;
+}
+.box-scroll2{
+width: 69.7vw;
+height: 80vh;
+background-color: #ff7b00;
+overflow: scroll;
+}
+.box1{
+width:65vw;
+background-color: white;
+margin: 10vh auto;
+border-radius: 2.5%;
+padding-bottom: 3vh;
+}
+.box2{
+width:65vw;
+background-color: white;
+margin: 10vh auto;
+border-radius: 2.5%;
+padding-bottom: 3vh;
+overflow: hidden;
+}
+.box1-info{
+width:65vw;
+background-color: darkred;
+margin: 1vh auto;
+border-radius: 2.5%;
+padding-bottom: 1.5vh;
+padding-top:1.5vh;
+overflow: scroll;
+}
+.box3{
+width:65vw;
+background-color: white;
+margin: 1.5vh auto;
+border-radius: 2.5%;
+padding-bottom: 3vh;
+}

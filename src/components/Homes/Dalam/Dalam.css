@@ -1,0 +1,76 @@
+.box-atas{
+border-bottom : 0.5vh solid red;
+text-align: center;
+width: 100%;
+
+}
+.box-satu{
+width: 22vw;
+background-color: red;
+diaplay: flex;
+align-items: center;
+}
+.box-head{
+width: 100%;
+background-color: black;
+text-align: center;
+}
+.box-head p{
+color: white;
+font-size: 2vw;
+}
+.box-bawah{
+height: 12vh;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 0.5vh solid darkred;
+}
+.box-bawah h3{
+font-size: 3vw;
+color: yellow;
+margin:7% ;
+}
+.box-tengah{
+display:flex;
+}
+
+.kabar2{
+padding-left: 1vw;
+}
+.kabar2 img{
+width:62vw;
+border-radius: 10%;
+border-top: 2vh solid gold;
+border-bottom: 3vh solid gold;
+}
+.kabar2-dalam {
+width: 98%;
+border-top: 0.5vh solid #999;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 10vh;
+background-color: #333;
+}
+.kabar2-dalam h1 {
+border-bottom: 0.4vh solid #999;
+color: white;
+}
+.kabar2-bawah{
+border: 0.6vh solid #111;
+width: 95%;
+padding-top: 2vh;
+padding-left: 1vw;
+border-radius: 0 0 5% 5%;
+}
+.kabar3{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+.kabar3 img{
+width: 65vw;	
+
+}
